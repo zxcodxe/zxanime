@@ -1,9 +1,9 @@
 [
     {
         "session": "Astabot",
-        "token": "",
-        "api_id": "",
-        "api_hash": "",
+        "token": "8325787402:AAHB9TQ2vjXI4UHk4J29Vy2DngxFcHGoHJA",
+        "api_id": "27602796",
+        "api_hash": "7aaf83197adc3f7f92c4276f60485b72",
         "workers": 8,
         "db_uri": "",
         "db_name": "",
