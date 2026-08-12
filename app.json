@@ -1,0 +1,46 @@
+{
+  "name": "ZX Anime File Store Bot",
+  "description": "A Telegram Anime File Store Bot",
+  "repository": "https://github.com/zxcodxe/zxanime",
+  "keywords": [
+    "telegram",
+    "anime",
+    "filestore",
+    "bot"
+  ],
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Telegram Bot Token",
+      "required": true
+    },
+    "API_ID": {
+      "description": "Telegram API ID",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Telegram API Hash",
+      "required": true
+    },
+    "DB_URI": {
+      "description": "MongoDB Database URI",
+      "required": true
+    },
+    "DB_NAME": {
+      "description": "MongoDB Database Name",
+      "required": true
+    },
+    "ADMINS": {
+      "description": "Telegram Admin ID(s)",
+      "required": true
+    },
+    "FSUBS": {
+      "description": "Force Subscription Channel(s)",
+      "required": false
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
