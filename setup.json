@@ -1,6 +1,6 @@
 [
     {
-        "session": "kakashibot",
+        "session": "Astabot",
         "token": "",
         "api_id": "",
         "api_hash": "",
@@ -8,23 +8,18 @@
         "db_uri": "",
         "db_name": "",
         "fsubs": [],
-        "db": ,
-        "auto_del": ,
+        "db": false,
+        "auto_del": false,
         "messages": {
-            "START": "Hi...This is a Permanent FileStore Bot for Anime universe ",
+            "START": "Hi...This is a Permanent FileStore Bot for Anime universe",
             "FSUB": "Join Now",
             "ABOUT": "",
             "REPLY": "file store bot",
             "START_PHOTO": "https://graph.org/file/b92fc2cc46c0b88b1a202-59dfa770e3fa2cc4d7.jpg",
             "FSUB_PHOTO": "https://graph.org/file/b92fc2cc46c0b88b1a202-59dfa770e3fa2cc4d7.jpg"
         },
-        "admins": [ASTA KO BAAP BOL],
+        "admins": [],
         "disable_btn": false,
         "protect": false
     }
 ]
-
-
-
-
-
