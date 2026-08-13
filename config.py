@@ -4,7 +4,7 @@ import os
 
 LOG_FILE_NAME = "bot.log"
 PORT = os.environ.get("PORT", "8080")
-OWNER_ID = 7808531413
+OWNER_ID = 8106209068
 MSG_EFFECT = 5046509860389126442
 
 
